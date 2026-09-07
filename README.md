@@ -1,4 +1,4 @@
-<img width="1916" height="653" alt="Screenshot 2026-09-07 091646" src="https://github.com/user-attachments/assets/803bcd59-f681-4983-aceb-9504ee0646aa" /># Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
 
 
 ## AIM:
@@ -326,11 +326,3 @@ public class MainActivity extends AppCompatActivity {
 
 Thus a Simple Android Application to add animations: Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
 
-
-
-
-
-
-
-
-## RESULT
